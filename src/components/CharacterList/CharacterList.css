@@ -1,0 +1,19 @@
+.character-list {
+  margin: 500px;
+}
+
+.characters {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.character {
+  margin: 100px;
+  text-align: center;
+}
+
+.character img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
